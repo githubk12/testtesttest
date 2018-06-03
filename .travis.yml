@@ -1,1 +1,1 @@
-script ./test_plus.py
+script: ./test_plus.py
